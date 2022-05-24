@@ -1,0 +1,3 @@
+aws
+azure
+oracle cloud
